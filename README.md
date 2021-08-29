@@ -4,6 +4,8 @@ Description: This project is a replica of the local, single-player, mobile game 
 
 ![Alt Text](https://github.com/ChenGrant/Flappy-Bird-/blob/6a648499a1a66c73faa6cee65b510e39f535ea66/about/gif.gif)
 
+Video Demo: https://youtu.be/A1XnEv1kIAI
+
 Technologies Used: Java
 
 Date Created: June 2020
