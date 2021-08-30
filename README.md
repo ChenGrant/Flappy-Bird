@@ -8,4 +8,6 @@ Video Demo: https://youtu.be/A1XnEv1kIAI
 
 Technologies Used: Java
 
+Download Project: Ensure Java is installed on the device. Download the project as a zip file. Unzip the file and run the executable jar file.
+
 Date Created: June 2020
